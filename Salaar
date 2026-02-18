@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salaar Video</title>
+</head>
+<body>
+   <center> <img src="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/salaar-cease-fire--part-1-et00301886-1702971289.jpg" alt="Salaar" width="200" height="200"> <br>
+   <video src="./Salaar.mp4" controls width="200" height="200" loop autoplay></video> </center>
+</body>
+</html>
