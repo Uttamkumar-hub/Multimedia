@@ -7,6 +7,6 @@
 </head>
 <body>
    <center> <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Rangasthalam.jpg" alt="Rangasthalam" width="200" height="200"> <br>
-   <video src="Rangasthalam.mp4" controls width="200" height="200" loop autoplay></video> </center>
+   <video src="./Rangasthalam.mp4" controls width="200" height="200" loop autoplay></video> </center>
 </body>
 </html>
